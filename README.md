@@ -1,5 +1,5 @@
 # Systeme_dynamique
-Mise en ligne sur jupyter notebook de systeme dynamique (lien qui explique comment héberger le site https://github.com/vincentchoqueuse/Mise-en-place-des-TP-jupyter)
+Mise en ligne sur jupyter notebook de systeme dynamique (lien qui explique comment héberger le programme https://github.com/vincentchoqueuse/Mise-en-place-des-TP-jupyter)
 
 Dans ce programme python sous jupyter notebook, on essaye d'analyser et automatiser un jeu simple de données. Cela consiste à
 1) extraire des données, les grandeurs physiques importantes
